@@ -1,6 +1,6 @@
 # sait_17-21
 proba2
-echo "# sait_17-21" >> README.md
+/*echo "# sait_17-21" >> README.md*/
 git init
 git add README.md
 git commit -m "first commit"
